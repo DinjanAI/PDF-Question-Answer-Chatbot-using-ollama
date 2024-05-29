@@ -5,4 +5,6 @@ This chatbot employs Ollama AI powerful language model to provide accurate and r
 - first download ollama in your system accrodingly shown in this link:
   [download ollama](https://github.com/ollama/ollama)
 
+## Colab notebook
+- [colab](https://colab.research.google.com/drive/1SSe7CiKMfWu84E_4X9ho-ryDPpHliCc0?usp=sharing)
   
