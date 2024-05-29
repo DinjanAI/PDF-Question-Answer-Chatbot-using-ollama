@@ -1,2 +1,8 @@
 # PDF-Question-Answer-Chatbot-using-ollama
-Ollama-powered PDF Question-Answer Chatbot uses sophisticated NLP techniques to answer user queries about PDF content accurately and appropriately. An effective interface for accessing information is therefore achieved through integrating it with Ollama’s AI capabilities for document processing and talk.🤖
+This chatbot employs Ollama AI powerful language model to provide accurate and relevant responses to questions based on PDF content uploaded by users. Welcome to a conversation where questions are answered automatically about PDFs content by the Ollama AI.” Below you will find information about how it works: from installation instructions to features and proper use. The step-by-step instructions in this guide will help you set up my project.” We can do step-by-step guidance through setting up my project idea.
+
+## Download ollama
+- first download ollama in your system accrodingly shown in this link:
+  [download ollama](https://github.com/ollama/ollama)
+
+  
